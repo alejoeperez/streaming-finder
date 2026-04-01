@@ -40,5 +40,9 @@ The MVP will be considered successful if:
 - The user can clearly see where the title is available
 - The user can navigate to a provider link
 
+## Data Strategy (Initial)
+For the MVP, data will be mocked or manually defined in the backend.
+External API integration will be added in later phases.
+
 ## Notes
 This MVP is intentionally small. The goal is to validate the core user value before adding more features or technical complexity.
