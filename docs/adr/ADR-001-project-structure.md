@@ -1,3 +1,7 @@
+<!-- 
+This file is for Architecture Decision Record
+That means here I'm describing why I am selecting the architecture and technology will be used on this project
+-->
 # ADR-001: Initial project structure
 
 ## Status
