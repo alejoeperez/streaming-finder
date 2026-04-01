@@ -48,3 +48,7 @@ The first version will include:
 - How accurate and up-to-date will the availability information be?
 - Will availability vary by region?
 - How often should data be refreshed?
+
+## System Role
+Streaming Finder acts as an aggregator, not a content provider. 
+It does not host or stream content, but redirects users to external platforms.
